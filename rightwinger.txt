@@ -1,0 +1,308 @@
+# ============================================================
+# anticorpo – conservative.txt
+# ============================================================
+# Purpose:
+# This list reduces passive exposure to organized anti-trans,
+# anti-LGBTQ, racist, MAGA, and reactionary propaganda networks.
+# It targets institutions, influence hubs, and policy engines,
+# not individuals or general platforms.
+#
+# This is harm-reduction infrastructure, not censorship.
+#
+# ============================================================
+# Bypass Philosophy
+# ============================================================
+# This blocklist is NOT carceral.
+# It does not exist to control users, punish curiosity,
+# or prevent access to information.
+#
+# It exists to:
+#  • reduce ambient psychological harm
+#  • prevent accidental exposure via shared links
+#  • slow algorithmic radicalization pipelines
+#  • lower background culture-war noise in shared spaces
+#
+# Any user may opt out or bypass this list at any time.
+# Doing so is a valid personal choice and is respected.
+#
+# ============================================================
+# How to Opt Out / Bypass
+# ============================================================
+# If you want to view content blocked by this list:
+#
+# 1) Temporarily disable this list in your DNS blocker
+#    (Technitium / Pi-hole / AdGuard / etc), OR
+#
+# 2) Use a different DNS resolver that does not use anticorpo, OR
+#
+# 3) Use a VPN, Tor Browser, or mobile hotspot, OR
+#
+# 4) Ask the admin to add a one-off allow exception
+#    for a specific domain.
+#
+# No logs are kept for bypass requests.
+# No justification is required.
+#
+# ============================================================
+# Ethical Scope
+# ============================================================
+# This list intentionally does NOT block:
+#  • porn or adult content
+#  • piracy or “sketchy” sites
+#  • queer or feminist media
+#  • social media platforms
+#  • mainstream neutral journalism
+#  • archives or academic research
+#
+# It focuses on:
+#  • coordinated anti-trans infrastructure
+#  • racist / white nationalist networks
+#  • MAGA propaganda hubs
+#  • TERF and gender-critical orgs
+#  • grooming-panic factories
+#  • Christian nationalist policy engines
+#
+# ============================================================
+# User Autonomy Statement
+# ============================================================
+# Users are trusted.
+# Curiosity is not a crime.
+# Disagreement is not a threat.
+#
+# This list exists to shape a calmer shared environment,
+# not to enforce ideology.
+#
+# ============================================================
+
+
+# anticorpo conservative.txt
+# Purpose: Reduce exposure to organized anti-trans, anti-LGBTQ, racist,
+# reactionary, and MAGA propaganda infrastructure.
+# Philosophy: Block institutions and coordinated influence networks,
+# not individuals or general platforms.
+# Users remain free to bypass or disable this list at will.
+
+# ============================================================
+# Major right-wing propaganda networks
+# ============================================================
+
+foxnews.com
+newsmax.com
+oann.com
+theblaze.com
+dailywire.com
+breitbart.com
+washingtonexaminer.com
+townhall.com
+redstate.com
+pjmedia.com
+nationalreview.com
+thefederalist.com
+theamericanconservative.com
+spectator.org
+thepostmillennial.com
+freebeacon.com
+realclearpolitics.com
+realclearinvestigations.com
+justthenews.com
+theepochtimes.com
+ntd.com
+wnd.com
+worldnetdaily.com
+humanevents.com
+dailysignal.com
+dailycaller.com
+
+# ============================================================
+# MAGA / Trump infrastructure
+# ============================================================
+
+truthsocial.com
+maga.com
+donaldjtrump.com
+saveamerica45.com
+americafirstpolicy.com
+rsbnetwork.com
+rightsidebroadcasting.com
+patriots.win
+thegatewaypundit.com
+weaselzippers.us
+thepoliticalinsider.com
+conservativereview.com
+libertyunyielding.com
+
+# ============================================================
+# Disinformation + rage-farm outlets
+# ============================================================
+
+infowars.com
+prisonplanet.com
+zerohedge.com
+projectveritas.com
+rumble.com
+gab.com
+parler.com
+bitshoot.com
+odysee.com
+bitchute.com
+louderwithcrowder.com
+thewashingtonstandard.com
+uncoverdc.com
+nationalfile.com
+revolver.news
+thegrayzone.com
+greatgameindia.com
+
+# ============================================================
+# Anti-trans organizations / policy engines
+# ============================================================
+
+alliance-defending-freedom.org
+heritage.org
+familyresearchcouncil.org
+americanprinciplesproject.org
+transgendertrend.com
+parentsofrogd.org
+genspect.org
+doctorsprotectingchildren.org
+glaadwatch.org
+americafirstpolicy.com
+ethicsandintegrity.org
+aclupa.org
+yaf.org
+collegefix.com
+campusreform.org
+
+# ============================================================
+# TERF / gender-critical hubs
+# ============================================================
+
+womensdeclaration.com
+fairplayforwomen.com
+sex-matters.org
+4w.pub
+wdi.network
+womanmeanssomething.com
+gendercriticalgreens.org
+handsacrosstheaislewomen.com
+standingforwomen.com
+lgballiance.org.uk
+deepgreenresistance.org
+resistancewomen.org
+womenarehuman.com
+
+# ============================================================
+# Anti-LGBTQ advocacy / hate groups
+# ============================================================
+
+massresistance.org
+nomblog.com
+faithfulamerica.org
+truthrevolt.org
+returnofkings.com
+voiceformen.com
+chalcedon.edu
+americanvision.org
+focusonthefamily.com
+lifesitenews.com
+christianpost.com
+cbn.com
+onenewsnow.com
+
+# ============================================================
+# Racist / white nationalist infrastructure
+# ============================================================
+
+vdare.com
+amren.com
+stormfront.org
+nationaljusticeparty.com
+counter-currents.com
+unz.com
+takimag.com
+occidentalobserver.net
+identityevropa.org
+americanrenaissance.com
+whiterosesociety.org
+
+# ============================================================
+# Reactionary think tanks / lobbying groups
+# ============================================================
+
+cato.org
+aei.org
+hudson.org
+manhattan-institute.org
+heartland.org
+acton.org
+mises.org
+reason.org
+freedomworks.org
+judicialwatch.org
+turningpointusa.com
+tpusa.com
+studentsforlife.org
+concernedwomen.org
+
+# ============================================================
+# Christian nationalist networks
+# ============================================================
+
+answersingenesis.org
+americanvision.org
+gotquestions.org
+liberty.edu
+patriotacademy.com
+wallbuilders.com
+worldviewweekend.com
+focusonthefamily.com
+
+# ============================================================
+# Anti-immigrant / ethno-nationalist policy hubs
+# ============================================================
+
+fairus.org
+cis.org
+numbersusa.com
+vdare.com
+centerforimmigrationstudies.org
+
+# ============================================================
+# Anti-vax / conspiracy crossover hubs
+# ============================================================
+
+naturalnews.com
+mercola.com
+collective-evolution.com
+newstarget.com
+healthimpactnews.com
+greenmedinfo.com
+
+# ============================================================
+# UK-based reactionary + anti-trans hubs
+# ============================================================
+
+spiked-online.com
+conservativewoman.co.uk
+telegraph.co.uk
+spectator.co.uk
+unherd.com
+thecritic.co.uk
+quillette.com
+
+# ============================================================
+# Groomer-panic + culture-war factories
+# ============================================================
+
+gaysagainstgroomers.com
+protectchildhood.org
+americandecency.org
+parentstv.org
+culturewarrior.com
+
+# ============================================================
+# End of anticorpo conservative.txt
+# Maintained by: GirlInTheTerminal
+# License: Public Domain / CC0
+# Contributions welcome via PR.
+# ============================================================
