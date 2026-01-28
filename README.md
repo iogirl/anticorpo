@@ -7,15 +7,14 @@ This list blocks:
 - trackers
 - telemetry
 - surveillance capitalism infrastructure
+- conservative websites that feel harmful or "too much"
 
 It deliberately does NOT block:
 - porn
 - queer media
-- political sites
 - sketchy sites (4chan, etc.)
 - social networks
 - payment processors
-- CDNs
 - streaming services
 
 This is not censorship.
