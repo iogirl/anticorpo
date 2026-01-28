@@ -13,7 +13,7 @@ It deliberately does NOT block:
 - porn
 - queer media
 - sketchy sites (4chan, etc.)
-- social networks
+- most social networks
 - payment processors
 - streaming services
 
@@ -28,3 +28,5 @@ This is a consent firewall.
 ## License
 
 Public domain / CC0.
+
+Please feel free to contribute or edit the list as you need. You can choose to just use the anti-corp tracker list and opt out of the political one if you need.
