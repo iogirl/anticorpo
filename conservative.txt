@@ -83,6 +83,7 @@ https://www.facebook.com/FoxNews/reels/
 foxnews.com
 video.foxnews.com
 static.foxnews.com
+https://www.youtube.com/@FoxNews/shorts
 newsmax.com
 oann.com
 theblaze.com
