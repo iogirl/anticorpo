@@ -80,6 +80,9 @@
 # --- Major right-wing propaganda networks ---
 foxnews.com
 https://www.facebook.com/FoxNews/reels/
+foxnews.com
+video.foxnews.com
+static.foxnews.com
 newsmax.com
 oann.com
 theblaze.com
